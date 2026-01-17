@@ -122,8 +122,6 @@ Email result notification
 Password encryption and OTP
 
 # 👨‍💻 Developer
-Name: Happy Saini
+Name: Prince Saini
 
-License: MIT or Custom
-
-Contact: youremail@example.com
+Contact: princesaini2809@gmail.com
