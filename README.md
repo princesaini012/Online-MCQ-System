@@ -40,8 +40,7 @@ A Java-based desktop application to manage quizzes and exams, designed for educa
 # All Student Result
 ![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/94fe1250e20cc89d5414b1c51034124baaec4320/Screenshot%202025-06-09%20153044.png)
 
-# Pull the folder on github
-![image alt](https://github.com/HappySaini001/Online-MCQ-System/blob/dfaeee8037cbb76923625cfe7e7200a27c95e323/Screenshot%202025-05-25%20174444.png)
+
 
 
 
